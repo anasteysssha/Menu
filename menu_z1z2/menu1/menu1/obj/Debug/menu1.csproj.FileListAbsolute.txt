@@ -1,0 +1,14 @@
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha\menu_z1z2\menu1\menu1\bin\Debug\menu1.exe.config
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha\menu_z1z2\menu1\menu1\bin\Debug\menu1.exe
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha\menu_z1z2\menu1\menu1\bin\Debug\menu1.pdb
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha\menu_z1z2\menu1\menu1\obj\Debug\menu1.csproj.AssemblyReference.cache
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha\menu_z1z2\menu1\menu1\obj\Debug\MainWindow.baml
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha\menu_z1z2\menu1\menu1\obj\Debug\MainWindow.g.cs
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha\menu_z1z2\menu1\menu1\obj\Debug\App.g.cs
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha\menu_z1z2\menu1\menu1\obj\Debug\menu1_MarkupCompile.cache
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha\menu_z1z2\menu1\menu1\obj\Debug\menu1.g.resources
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha\menu_z1z2\menu1\menu1\obj\Debug\menu1.Properties.Resources.resources
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha\menu_z1z2\menu1\menu1\obj\Debug\menu1.csproj.GenerateResource.cache
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha\menu_z1z2\menu1\menu1\obj\Debug\menu1.csproj.CoreCompileInputs.cache
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha\menu_z1z2\menu1\menu1\obj\Debug\menu1.exe
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha\menu_z1z2\menu1\menu1\obj\Debug\menu1.pdb
